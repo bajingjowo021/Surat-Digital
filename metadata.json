@@ -1,0 +1,6 @@
+{
+  "name": "e-Surat Desa",
+  "description": "Sistem pelayanan administrasi kependudukan desa digital dengan integrasi AI Surat Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
